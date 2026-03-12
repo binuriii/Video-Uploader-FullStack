@@ -16,14 +16,14 @@ This project demonstrates how to build a **production-style backend API with aut
 
 ##  Features
 
-- 🔐 JWT Authentication
-- 📤 Image & Video Upload
-- ☁️ Cloud Storage with ImageKit
-- 🗄 SQLite Database
-- ⚡ FastAPI REST API
-- 🖥 Streamlit Frontend
-- 📚 Auto API Documentation
-- 🎥 Media transformation with ImageKit
+- JWT Authentication
+- Image & Video Upload
+- Cloud Storage with ImageKit
+- SQLite Database
+- FastAPI REST API
+- Streamlit Frontend
+- Auto API Documentation
+- Media transformation with ImageKit
 
 ---
 
@@ -84,3 +84,4 @@ project-root
 ├── pyproject.toml
 
 └── README.md
+
